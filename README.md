@@ -1,6 +1,5 @@
-## Hi there 👋
+## 👋 Olá, eu sou o João Neto
 
-# 👋 Olá, eu sou o João Neto
 
 💻 **Desenvolvedor Full Stack** apaixonado por tecnologia, inovação e boas práticas de programação.  
 Tenho experiência com **HTML, CSS, JavaScript, Node.js e React**, criando aplicações completas, desde o **front-end** até o **back-end**.
