@@ -36,7 +36,7 @@ Tenho experiência com **HTML, CSS, JavaScript, Node.js e React**, criando aplic
 
 ---
 
-[![Dev-JoaoNeto](https://github-readme-stats.vercel.app/api?username=Dev-JoaoNeto&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
