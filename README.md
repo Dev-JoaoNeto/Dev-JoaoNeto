@@ -32,7 +32,7 @@ Tenho experiência com **HTML, CSS, JavaScript, Node.js e React**, criando aplic
 ### 📫 Como me encontrar
 - <a href="https://www.linkedin.com/in/joao-neto-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - <a href="https://www.instagram.com/netiin_/"><img src="https://img.shields.io/badge/Instagram-C13584.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-- 📧 **netinhotavares.537@gmail.com**
+- 📧 **joaonetodevops@gmail.com**
 
 ---
 
