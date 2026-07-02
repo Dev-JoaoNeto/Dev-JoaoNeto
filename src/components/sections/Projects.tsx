@@ -11,7 +11,6 @@ export function Projects() {
           title="Projetos desenvolvidos com foco em experiencia, performance e codigo bem estruturado."
           description="Uma selecao de aplicacoes que mostram minha evolucao tecnica, atencao aos detalhes e capacidade de transformar ideias em solucoes funcionais."
         />
-        <div className="absolute inset-x-0 bottom-0 -z-10 h-px bg-gradient-to-r from-transparent via-emerald-400/40 to-transparent" />
       </div>
 
       <div className="hidden md:block">
