@@ -4,12 +4,12 @@ import { SectionHeading } from '../ui/SectionHeading'
 
 export function Projects() {
   return (
-    <section id="projects" className="scroll-reveal border-t border-white/10 bg-black px-5 py-20">
-      <div className="mx-auto max-w-6xl ">
+    <section id="projects" className="border-t border-white/10 bg-black px-5 py-20">
+      <div className="scroll-reveal mx-auto max-w-6xl">
         <SectionHeading
           eyebrow="Projetos"
-          title="Projetos desenvolvidos com foco em experiência, performance e código bem estruturado."
-          description="Uma seleção de aplicações que mostram minha evolução técnica, atenção aos detalhes e capacidade de transformar ideias em soluções funcionais."
+          title="Projetos desenvolvidos com foco em experiencia, performance e codigo bem estruturado."
+          description="Uma selecao de aplicacoes que mostram minha evolucao tecnica, atencao aos detalhes e capacidade de transformar ideias em solucoes funcionais."
         />
         <div className="absolute inset-x-0 bottom-0 -z-10 h-px bg-gradient-to-r from-transparent via-emerald-400/40 to-transparent" />
       </div>
@@ -32,7 +32,7 @@ export function Projects() {
         ))}
       </div>
 
-      <div className="project-carousel mx-auto flex max-w-6xl snap-x gap-4 overflow-x-auto pb-4 md:hidden">
+      <div className="project-carousel scroll-reveal mx-auto flex max-w-6xl snap-x gap-4 overflow-x-auto pb-4 md:hidden">
         {projects.map((project, index) => (
           <div className="min-w-[93%] snap-center" key={project.title}>
             <ProjectCard {...project} index={index} />
