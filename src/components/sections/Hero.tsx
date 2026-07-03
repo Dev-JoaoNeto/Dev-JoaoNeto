@@ -28,7 +28,7 @@ export function Hero() {
                 Entrar em contato <WhatsAppIcon />
               </div>
             </Button>
-            <Button href="/docs/JoaoNetoCv.pdf" download
+            <Button href="/docs/JoãoNeto.pdf" download
               variant="secondary"
               target="_blank"
               rel="noopener noreferrer"
